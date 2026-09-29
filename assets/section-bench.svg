@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width="1" opacity="0.28"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="88" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="88" rx="12" fill="url(#grid)"/>
+  <rect x="30" y="24" width="5" height="40" rx="2.5" fill="#58a6ff"/>
+  <text x="58" y="45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#f0f6fc">ON THE BENCH</text>
+  <text x="58" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8b949e">current builds and experiments</text>
+  <circle cx="1110" cy="44" r="8" fill="#3fb950"/>
+  <path d="M1140 44h30" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+</svg>
