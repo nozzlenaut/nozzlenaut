@@ -22,28 +22,28 @@ Most of these start with some version of:
 
 | Project | Status | What I'm trying to do |
 | --- | --- | --- |
-| **[AndroidKlipper](https://github.com/nozzlenaut/androidklipper)** | 🟢 Working / testing | Run Klipper from Android hardware instead of automatically buying another Raspberry Pi. [Video](https://www.youtube.com/watch?v=Nz-z8JivqjY) |
-| **[HandheldHero](https://github.com/nozzlenaut/HandheldHero)** | 🟡 Building | Make fresh handheld setup less annoying: device-aware packages, Wi-Fi, emulators, tools and hotkeys. |
-| **[TrimUI Brick Clock+](https://github.com/nozzlenaut/Trimui-Brick-Clock-Plus)** | 🟢 Working | Better clock mode with burn-in protection plus useful sync / connection status. |
-| **Item → Gridfinity** | 🟡 Testing | Turn real-world dimensions into a Gridfinity tray/holder, eventually with saved designs and cheap STL/STEP export. |
-| **Controller tester / repair reports** | 🟡 Testing | Identify controllers, test buttons/sticks/USB and make a clean report for resale listings. |
+| **[AndroidKlipper](https://github.com/nozzlenaut/androidklipper)** | Working / testing | Run Klipper from Android hardware instead of automatically buying another Raspberry Pi. [Video](https://www.youtube.com/watch?v=Nz-z8JivqjY) |
+| **[HandheldHero](https://github.com/nozzlenaut/HandheldHero)** | Building | Make fresh handheld setup less annoying: device-aware packages, Wi-Fi, emulators, tools and hotkeys. |
+| **[TrimUI Brick Clock+](https://github.com/nozzlenaut/Trimui-Brick-Clock-Plus)** | Working | Better clock mode with burn-in protection plus useful sync / connection status. |
+| **Item → Gridfinity** | Testing | Turn real-world dimensions into a Gridfinity tray/holder, eventually with saved designs and cheap STL/STEP export. |
+| **Controller tester / repair reports** | Testing | Identify controllers, test buttons/sticks/USB and make a clean report for resale listings. |
 
 ## Sites I run
 
-### 🔎 [PriceSift](https://pricesift.app)
+### [PriceSift](https://pricesift.app)
 Used/budget gear search and comparison. Cameras, GPUs, consoles, books, price history, and experiments around making used shopping less annoying.
 
-### 🧩 MatchMyModel
+### MatchMyModel
 A low-maintenance compatibility/search project for figuring out whether a part or accessory actually fits a specific model.
 
 ## Other things I'm poking at
 
-- 🔧 Small electronics flips and repair lots
-- 📦 Public-sector supply bids
-- 🖨️ 3D-printing tools and mods
-- 🎮 Handhelds and controller repair/testing
-- 🧪 Cheap hardware doing jobs normally handed to more expensive hardware
-- 💡 Tiny tools that might someday make a couple bucks instead of becoming another abandoned folder
+- Small electronics flips and repair lots
+- Public-sector supply bids
+- 3D-printing tools and mods
+- Handhelds and controller repair/testing
+- Cheap hardware doing jobs normally handed to more expensive hardware
+- Tiny tools that might someday make a couple bucks instead of becoming another abandoned folder
 
 ## How I look at projects
 
