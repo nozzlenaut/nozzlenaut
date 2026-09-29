@@ -18,7 +18,9 @@ Most of these start with some version of:
 
 3D printing, handhelds, repair experiments, small websites, homelab stuff, and whatever other rabbit hole looks interesting that week.
 
-## On the bench
+<p align="center">
+  <img src="./assets/section-bench.svg" alt="On the bench — current builds and experiments" width="100%" />
+</p>
 
 | Project | Status | What I'm trying to do |
 | --- | --- | --- |
@@ -28,7 +30,9 @@ Most of these start with some version of:
 | **Item → Gridfinity** | Testing | Turn real-world dimensions into a Gridfinity tray/holder, eventually with saved designs and cheap STL/STEP export. |
 | **Controller tester / repair reports** | Testing | Identify controllers, test buttons/sticks/USB and make a clean report for resale listings. |
 
-## Sites I run
+<p align="center">
+  <img src="./assets/section-sites.svg" alt="Sites and tools — things that escaped the workshop" width="100%" />
+</p>
 
 ### [PriceSift](https://pricesift.app)
 Used/budget gear search and comparison. Cameras, GPUs, consoles, books, price history, and experiments around making used shopping less annoying.
@@ -36,7 +40,7 @@ Used/budget gear search and comparison. Cameras, GPUs, consoles, books, price hi
 ### MatchMyModel
 A low-maintenance compatibility/search project for figuring out whether a part or accessory actually fits a specific model.
 
-## Other things I'm poking at
+## Current rabbit holes
 
 - Small electronics flips and repair lots
 - Public-sector supply bids
@@ -45,7 +49,9 @@ A low-maintenance compatibility/search project for figuring out whether a part o
 - Cheap hardware doing jobs normally handed to more expensive hardware
 - Tiny tools that might someday make a couple bucks instead of becoming another abandoned folder
 
-## How I look at projects
+<p align="center">
+  <img src="./assets/section-approach.svg" alt="The approach — average-person testing, useful failures included" width="100%" />
+</p>
 
 I'm not approaching this as a professional reviewer or production shop. I document things from an **average-person point of view**:
 
