@@ -1,52 +1,58 @@
-# Hey, I'm Nozzlenaut
+<p align="center">
+  <img src="./assets/banner.svg" alt="Nozzlenaut — build, test, break, fix, learn, repeat" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Nz-z8JivqjY"><img src="https://img.shields.io/badge/YouTube-latest%20project-red?logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://pricesift.app"><img src="https://img.shields.io/badge/PriceSift-live-2ea44f" alt="PriceSift" /></a>
+  <a href="https://github.com/nozzlenaut?tab=repositories"><img src="https://img.shields.io/badge/GitHub-projects-181717?logo=github" alt="Projects" /></a>
+</p>
+
+## Hey, I'm Nozzlenaut
 
 I build hardware and software projects because I want to know if an idea actually works for a normal person — not just in a polished demo.
 
-A lot of this starts with some version of: **"Can I make this cheaper, simpler, or more useful with stuff I already have?"**
+Most of these start with some version of:
 
-3D printing, handhelds, homelab stuff, repair experiments, small websites, and whatever other rabbit hole looks interesting that week.
+> **Can I make this cheaper, simpler, or more useful with stuff I already have?**
 
-## What I'm working on
+3D printing, handhelds, repair experiments, small websites, homelab stuff, and whatever other rabbit hole looks interesting that week.
 
-### AndroidKlipper — working / still testing
-Running Klipper from Android hardware instead of automatically buying another Raspberry Pi.
+## On the bench
 
-- [GitHub](https://github.com/nozzlenaut/androidklipper)
-- [First YouTube test](https://www.youtube.com/watch?v=Nz-z8JivqjY)
+| Project | Status | What I'm trying to do |
+| --- | --- | --- |
+| **[AndroidKlipper](https://github.com/nozzlenaut/androidklipper)** | 🟢 Working / testing | Run Klipper from Android hardware instead of automatically buying another Raspberry Pi. [Video](https://www.youtube.com/watch?v=Nz-z8JivqjY) |
+| **[HandheldHero](https://github.com/nozzlenaut/HandheldHero)** | 🟡 Building | Make fresh handheld setup less annoying: device-aware packages, Wi-Fi, emulators, tools and hotkeys. |
+| **[TrimUI Brick Clock+](https://github.com/nozzlenaut/Trimui-Brick-Clock-Plus)** | 🟢 Working | Better clock mode with burn-in protection plus useful sync / connection status. |
+| **Item → Gridfinity** | 🟡 Testing | Turn real-world dimensions into a Gridfinity tray/holder, eventually with saved designs and cheap STL/STEP export. |
+| **Controller tester / repair reports** | 🟡 Testing | Identify controllers, test buttons/sticks/USB and make a clean report for resale listings. |
 
-### HandheldHero — building
-A setup helper for handheld gaming devices: device-aware packages, Wi-Fi setup, emulators, tools, hotkeys, and cleaner fresh-SD setup.
+## Sites I run
 
-- [GitHub](https://github.com/nozzlenaut/HandheldHero)
+### 🔎 [PriceSift](https://pricesift.app)
+Used/budget gear search and comparison. Cameras, GPUs, consoles, books, price history, and experiments around making used shopping less annoying.
 
-### TrimUI Brick Clock+ — working
-A better clock mode for the TrimUI Brick with burn-in protection and useful sync/status information.
-
-- [GitHub](https://github.com/nozzlenaut/Trimui-Brick-Clock-Plus)
-
-### Item → Gridfinity — testing
-Turning real-world object dimensions into a Gridfinity tray/holder. The long-term idea is a tiny web tool: free preview/tuning, then a cheap STL/STEP export with saved designs.
-
-### Controller tester / repair reports — testing
-A simple way to identify controllers, test buttons/sticks/USB, and generate a clean report that can go with a resale listing.
-
-## Websites
-
-### [PriceSift](https://pricesift.app)
-A used/budget gear search and comparison project. Cameras, GPUs, consoles, books, price history, and experiments around making used shopping less annoying.
-
-### MatchMyModel
+### 🧩 MatchMyModel
 A low-maintenance compatibility/search project for figuring out whether a part or accessory actually fits a specific model.
 
-## Other experiments
+## Other things I'm poking at
 
-- Small electronics flips and repair lots
-- Michigan/public-sector supply bids
-- 3D-printing tools and mods
-- Cheap hardware doing jobs normally assigned to more expensive hardware
+- 🔧 Small electronics flips and repair lots
+- 📦 Public-sector supply bids
+- 🖨️ 3D-printing tools and mods
+- 🎮 Handhelds and controller repair/testing
+- 🧪 Cheap hardware doing jobs normally handed to more expensive hardware
+- 💡 Tiny tools that might someday make a couple bucks instead of becoming another abandoned folder
 
-## The point
+## How I look at projects
 
-I'm not a professional reviewer, engineer, or production shop. I document this stuff from an **average-person point of view**: what it costs, what was annoying, what broke, what actually worked, and whether I'd do it again.
+I'm not approaching this as a professional reviewer or production shop. I document things from an **average-person point of view**:
+
+**What did it cost?** · **What was annoying?** · **What broke?** · **What actually worked?** · **Would I do it again?**
 
 Some projects work. Some are dumb. Some turn into useful tools. That's kind of the point.
+
+---
+
+<p align="center"><sub>Currently accepting bad ideas with suspiciously good upside.</sub></p>
